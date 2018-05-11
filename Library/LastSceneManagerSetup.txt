@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Wikitude/Samples/Scenes/Image Tracking - Multiple Targets.unity
+  isLoaded: 1
+  isActive: 1
